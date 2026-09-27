@@ -1,4 +1,7 @@
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 <p align="center">
   <img src="./benner.png" width="100%" />
 </p>
@@ -7,8 +10,9 @@
 <div align="center">
 <!-- <h1> Hi 👋, I'm Md. Miraz </h1> -->
 
-<h2> ----Hi 👋, I'm Md. Miraz---- <br/> Full Stack  Developer</h2> 
+<h2> ----Hi 👋, I'm Md. Miraz---- <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Enthusiast;React+%7C+Next.js+Developer;Future+Full+Stack+Web+Developer" />
+</h2> 
 
 </div>
 
@@ -76,10 +80,10 @@ I mainly work with React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, and 
 </div>
 
 <h3> Repository Stats & Streak:<h3/>
-<div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=miraz-vai-1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=tamim-web-codes&theme=tokyonight&hide_border=true"
+/>
 </div>
-
 <h2 data-importer="text" align="left">Github Statistics  & Analiysis</h2>
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miraz-vai-1/miraz-vai-1/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
