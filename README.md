@@ -76,30 +76,15 @@ I mainly work with React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, and 
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
 </div>
+<h2 data-importer="text" align="left">Github Statistics  & Analiysis</h2>
 
 
 
-<!-- <h3> 👨‍💻About Me</h3>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-- 💻 Build modern and responsive web applications
-- ⚛️ Develop frontend applications with React.js, Next.js & TypeScript
-- 🎨 Create clean and interactive UI with Tailwind CSS
-- 🧩 Build reusable components and maintain clean project structure
-- 🔄 Work with React Hooks, Context API & state management
-- 🌐 Fetch and manage API data in React & Next.js
-- 📚 Currently improving my React, Next.js & TypeScript skills
-- 🚀 Continuously learning and building new projects -->
-<!--
-**miraz-vai-1/miraz-vai-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
