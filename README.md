@@ -8,6 +8,7 @@
 <!-- <h1> Hi 👋, I'm Md. Miraz </h1> -->
 
 <h2> ----Hi 👋, I'm Md. Miraz---- <br/> Full Stack  Developer</h2> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Enthusiast;React+%7C+Next.js+Developer;Future+Full+Stack+Web+Developer" />
 
 </div>
 
