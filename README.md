@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./benner.png" width="100%" />
 </p>
 
 <!--
