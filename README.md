@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="./benner.png" width="100%" />
 </p>
@@ -11,8 +10,6 @@
 Full Stack  Developer 
 
 </div>
-
-
 
 <h2>👨‍💻 About Me</h2>
 
@@ -85,6 +82,12 @@ I mainly work with React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, and 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miraz-vai-1/miraz-vai-1/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miraz-vai-1/miraz-vai-1/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=miraz-vai-1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/miraz-vai-1/miraz-vai-1/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 
 
 
