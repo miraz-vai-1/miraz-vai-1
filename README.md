@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone 👋
 
 <p align="center">
   <img src="./benner.png" width="100%" />
