@@ -5,9 +5,9 @@
 
 
 <div align="center">
-<h3> Hi 👋, I'm Md. Miraz </h3>
+<!-- <h1> Hi 👋, I'm Md. Miraz </h1> -->
 
-Full Stack  Developer 
+<h2> ----Hi 👋, I'm Md. Miraz---- <br/> Full Stack  Developer</h2> 
 
 </div>
 
