@@ -75,7 +75,7 @@ I mainly work with React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, and 
 </div>
 
 <h3> Repository Stats & Streak:<h3/>
-<div data-importer="stats" align="center">
+<div data-importer="stats" align="left">
   <img src="https://streak-stats.demolab.com?user=miraz-vai-1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
 </div>
 
