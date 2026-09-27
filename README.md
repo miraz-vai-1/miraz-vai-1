@@ -76,15 +76,13 @@ I mainly work with React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, and 
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
 </div>
+
+
 <h2 data-importer="text" align="left">Github Statistics  & Analiysis</h2>
-
-
-
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miraz-vai-1/miraz-vai-1/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miraz-vai-1/miraz-vai-1/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miraz-vai-1/miraz-vai-1/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
 
 
